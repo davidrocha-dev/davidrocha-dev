@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Rocha</h1>
-<h3 align="center">A passionate backend developer from Portugal 🇵🇹</h3>
+<h3 align="center">A passionate Computer Engineer from Portugal 🇵🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidrocha-dev&label=Profile%20views&color=b40e0e&style=plastic" alt="davidrocha-dev" /> </p>
 
